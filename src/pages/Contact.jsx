@@ -7,7 +7,7 @@ function Contact() {
 
   return (
     <>
-      <div style={{display: "flex", justifyContent: "center", backgroundColor: "#1e1e1e", border: "none" }} className='form-control'>
+      <div style={{display: "flex", justifyContent: "center", border: "none" }} className='form-control'>
         <Form
           data-aos="fade-up"
           data-aos-duration="1000"
