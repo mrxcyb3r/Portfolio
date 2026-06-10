@@ -43,7 +43,7 @@ function Home() {
                             <a href="https://discord.gg/mrx404notfound" target="_blank" rel="noopener noreferrer">
                                 <img src="https://i.ibb.co/FqJHDY6t/Untitled.jpg" alt="Discord" style={{ height: "35px", width: "35px", borderRadius: "50%" }} />
                             </a>
-                            <a href="https://github.com/MasterTechCode" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/mrxcyb3r" target="_blank" rel="noopener noreferrer">
                                 <img src="https://i.ibb.co/N2qkP8tB/Untitled.png" alt="GitHub" style={{ height: "35px", width: "35px", borderRadius: "50%" }} />
                             </a>
                         </div>
