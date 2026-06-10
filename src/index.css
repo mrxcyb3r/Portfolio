@@ -362,10 +362,25 @@ body {
   display: flex;
   justify-content: center;
 }
-.form-control{
+
+.contact-wrapper{
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: var(--card-bg);
+  color: var(--text);
+}
+
+.form-control input,
+.form-control textarea {
+  background-color: var(--card-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+.form-control input::placeholder,
+.form-control textarea::placeholder {
+  color: var(--text);
 }
 
 .skills {
@@ -443,6 +458,10 @@ body {
   --text: #e0e0e0;
   --card-bg: #1e1e1e;
   --border: #333333;
+}
+.form {
+  background: var(--card-bg);
+  color: var(--text);
 }
 
 body {

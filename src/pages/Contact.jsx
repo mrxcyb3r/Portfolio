@@ -7,7 +7,14 @@ function Contact() {
 
   return (
     <>
-      <div style={{display: "flex", justifyContent: "center", border: "none" }} className='form-control'>
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          border: "none"
+        }}
+        className='contact-wrapper'
+      >
         <Form
           data-aos="fade-up"
           data-aos-duration="1000"
@@ -64,14 +71,14 @@ function Contact() {
             variant="primary"
             type="submit"
             disabled={state.isSubmitting}
-            style={{marginLeft:"60px"}}
+            style={{ marginLeft: "60px" }}
           >
             {state.isSubmitting ? 'Sending...' : 'Send Message'}
           </Button>
         </Form>
-        </div>
-      </>
-      );
+      </div>
+    </>
+  );
 }
 
-      export default Contact;
+export default Contact;
