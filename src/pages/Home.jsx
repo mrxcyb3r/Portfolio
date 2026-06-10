@@ -101,7 +101,7 @@ function Home() {
             <Projects /><br />
             <h2 style={{ textAlign: "center", margin: "60px 0 30px" }}>Contact me</h2>
             <div style={{ display:"flex",justifyContent:"center",backgroundColor:"#1e1e1e",border:"none"}} className='form-control'>
-                <Contact />
+                <Contact style={{backgroundColor:"#1e1e1e"}}/>
             </div>
         </>
     );
