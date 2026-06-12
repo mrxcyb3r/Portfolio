@@ -77,5 +77,3 @@ I am always looking to collaborate on open-source projects, learn advanced front
 * **Discord:** [mrx404notfound](https://www.google.com/search?q=https://discord.gg/mrx404notfound)
 * **GitHub:** [MasterTechCode](https://www.google.com/search?q=https://github.com/MasterTechCode)
 
----# Portfolio
-# Portfolio
