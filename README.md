@@ -1,7 +1,6 @@
 # 🚀 Frontend Developer Portfolio
 
 Welcome to my personal portfolio repository! This website serves as a digital home to showcase my skills, technical capabilities, and journey as a frontend developer. It features a fully responsive design, dynamic micro-interactions, interactive text effects, and a global theme-switching system.
-
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
